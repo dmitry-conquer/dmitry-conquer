@@ -45,7 +45,7 @@
 ## Є питання? Завжди радий допомогти!
 📱 [Телеграм](https://t.me/dmitry_conquer)  
 📱 [Інстаграм](https://www.instagram.com/dmitry_conquer/)  
-📧 Пошта- dmitry.conquer@gmail.com
+📧 dmitry.conquer@gmail.com
 
 
 
