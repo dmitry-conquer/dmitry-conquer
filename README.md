@@ -32,8 +32,8 @@
 🌐 [Сайт портфоліо дизайнера](https://dmitry-conquer.github.io/designer_portfolio/)  
 🌐 [Онлайн магазин навушників](https://dmitry-conquer.github.io/headphones/)  
 
-[![Портфоліо](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]((https://dmitry-conquer.github.io/portfolio)/)
 
+[![Портфоліо](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dmitry-conquer.github.io/portfolio)/)
 
 # Є питання? Завжди радий допомогти!
 📱 [Телеграм](https://t.me/dmitry_conquer)  
