@@ -17,7 +17,7 @@
 🌐 [Персональний сайт стоматології](https://dmitry-conquer.github.io/stomatolog/)  
 🌐 [Конвертер валют в реальному часі](https://dmitry-conquer.github.io/rates__converter/)  
 🌐 [Сайт з виготовлення слухових апаратів](https://dmitry-conquer.github.io/fine_sluh/)  
-🌐 [Сайт з доставці автомобілів](https://dmitry-conquer.github.io/factum_car/)  
+🌐 [Сайт з доставки автомобілів](https://dmitry-conquer.github.io/factum_car/)  
 🌐 [Сайт Компанії по підтримці стартапів](https://dmitry-conquer.github.io/start_up/)  
 🌐 [Сайт магазин суші](https://dmitry-conquer.github.io/sushi_shop/)  
 🌐 [Сайт персонального психолога](https://dmitry-conquer.github.io/psycho_health/)  
