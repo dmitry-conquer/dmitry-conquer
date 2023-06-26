@@ -19,7 +19,7 @@
 
 # Мої останні проєкти:
 
-🌐 [PopConquer Cinema](https://dmitry-conquer.github.io/conquer-cinema/#/)  
+🌐 [PopConquer Cinema (VUE + Router + Pinia)](https://dmitry-conquer.github.io/conquer-cinema/#/)  
 🌐 [TODO список задач](https://dmitry-conquer.github.io/todo_list/)  
 🌐 [Персональний сайт стоматології](https://dmitry-conquer.github.io/stomatolog/)  
 🌐 [Конвертер валют в реальному часі](https://dmitry-conquer.github.io/rates__converter/)  
