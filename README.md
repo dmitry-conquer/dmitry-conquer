@@ -21,7 +21,7 @@
 # Мої останні проєкти:
 
 
-🌐 [Dream Team (Nuxt + SupaBase + Admin)](https://conquer-dream-team.netlify.app/)  
+🌐 [Dream Team (Nuxt + SupaBase + Admin + TailwindCSS)](https://conquer-dream-team.netlify.app/)  
 🌐 [PopConquer Cinema (VUE + Router + Pinia)](https://dmitry-conquer.github.io/conquer-cinema/#/)  
 🌐 [Real Estate (TailwindCSS)](https://conquer-real-estate.netlify.app/)  
 🌐 [TODO список задач](https://dmitry-conquer.github.io/todo_list/)  
