@@ -21,6 +21,7 @@
 # Мої останні проєкти:
 
 
+🌐 [Nike (Nuxt + GSAP + TailwindCSS)](https://conquer-nike.netlify.app/)  
 🌐 [Dream Team (Nuxt + SupaBase + Admin + TailwindCSS)](https://conquer-dream-team.netlify.app/)  
 🌐 [PopConquer Cinema (VUE + Router + Pinia)](https://dmitry-conquer.github.io/conquer-cinema/#/)  
 🌐 [Real Estate (TailwindCSS)](https://conquer-real-estate.netlify.app/)  
